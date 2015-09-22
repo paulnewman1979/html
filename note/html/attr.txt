@@ -1,0 +1,125 @@
+class
+  .desc.classname
+id
+  .desc.unique id
+style
+  .desc.style definition
+title
+  .desc.text
+bgcolor
+  .desc.background color
+shape
+  .desc.shape
+  .value.circle
+  .value.rect
+align
+  .desc.align
+  .value.center
+  .value.top
+  .value.bottom
+  .value.left
+  .value.right
+border
+  .desc.border
+  .value.int
+colspan
+  .desc.column span
+  .value.int
+rowspan
+  .desc.row span
+  .value.int
+cellpadding
+  .desc.cell padding
+  .value.int
+cellspacing
+  .desc.cell spacing
+  .value.int
+background
+  .desc.background
+  .value.url
+frame
+  .desc.frame
+  .value.box
+  .value.above
+  .value.below
+  .value.hsides
+  .value.vsides
+start
+  .desc.start
+type.ul
+  .desc.type
+  .value.disc
+  .value.circle
+  .value.square
+type.ol
+  .desc.type
+  .value.A
+  .value.a
+  .value.I
+  .value.i
+type.style
+  .desc.type
+  .value.text/css
+type.form
+  .desc.type
+  .value.text
+  .value.password
+  .value.radio
+  .value.checkbox
+  .value.submit
+  .value.button
+name
+  .desc.name
+  .value.string
+value
+  .desc.value
+  .value.string
+selected.option
+  .desc.selected
+  .value.selected
+rows
+  .desc.rows
+  .value.int
+  .value.{0}%
+cols
+  .desc.cols
+  .value.int
+  .value.{0}%
+action
+  .desc.action
+  .value.url
+method
+  .desc.http method
+  .value.get
+  .value.post
+enctype
+  .desc.?
+  .value.text/plain
+src
+  .desc.source
+  .value.url
+noresize
+  .desc.no resize
+  .value.noresize
+target
+  .desc.target
+  .value.string
+frameborder
+  .desc.frameborder
+  .value.int
+rel
+  .desc.rel
+  .value.stylesheet
+type.script
+  .desc.type
+  .value.text/javascript
+controls
+  .desc.audio controls
+  .value.controls
+type.source
+  .desc.audio source type
+  .value.audio/ogg
+  .value.audio/mpeg
+  .value.video/ogg
+  .value.video/mp4
+  .value.video/webm

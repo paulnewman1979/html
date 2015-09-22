@@ -1,0 +1,32 @@
+width
+  .desc.width
+  .value.int
+height
+  .desc.height
+  .value.int
+float
+  .desc.float position
+  .value.left
+background-color
+  .desc.background color
+  .value.#000000
+clear
+  .desc.?
+  .value.both
+text-align
+  .desc.text align
+  .value.center
+  .value.top
+margin-bottom
+  .desc.margin in bottom
+  .value.int
+font-size
+  .desc.font size
+  .value.{0}px
+margin
+  .desc.margin
+  .value.int
+list-style
+  .desc.?
+  .value.none
+

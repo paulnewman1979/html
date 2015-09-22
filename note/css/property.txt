@@ -1,0 +1,19 @@
+color
+  .value.red
+font-size
+  .value.{0}px
+font-family
+  .value."sans serif"
+text-align
+  .value.center
+margin
+  .value.int
+background
+  .value.#000000
+padding
+  .value.int
+font-style
+  .value.italic
+font-weight
+  .value.normal
+

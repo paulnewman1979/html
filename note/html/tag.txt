@@ -1,0 +1,208 @@
+html
+  .desc.html
+body
+  .desc.visible content
+h1
+  .desc.head level 1
+p
+  .desc.paragraph
+a
+  .desc.hyperlink
+  .attr.href
+  .attr.target
+img
+  .desc.image
+  .attr.src
+  .attr.usemap
+  .attr.align
+table
+  .desc.table
+  .attr.border
+  .attr.cellpadding
+  .attr.cellspacing
+  .attr.bgcolor
+  .attr.background
+  .attr.frame
+hr
+  .desc.horizon line
+br
+  .desc.break line
+i
+  .desc.italic
+pre
+  .desc.prescription
+strong
+  .desc.bold
+bold
+  .desc.bold
+big
+  .desc.big
+em
+  .desc.emphasized
+small
+  .desc.small
+sub
+  .desc.subscript
+sup
+  .desc.superscript
+code
+  .desc.computer code
+kbd
+  .desc.keyboard input
+tt
+  .desc.teletype text
+samp
+  .desc.sample text
+var
+  .desc.computer variable
+address
+  .desc.address
+abbr
+  .desc.abbreviation
+acronym
+  .desc.acronym
+blockquote
+  .desc.block quote
+q
+  .desc.quote
+del
+  .desc.delete line
+ins
+  .desc.insert line
+style
+  .desc.style
+  .attr.type
+map
+  .desc.map
+area
+  .desc.area
+  .attr.shape
+  .attr.coords
+  .attr.href
+  .attr.target
+  .attr.alt
+tr
+  .desc.table row
+td
+  .desc.table data
+  .attr.bgcolor
+  .attr.background
+th
+  .desc.table head (only bold compared with td)
+  .attr.colspan
+  .attr.rowspan
+ul
+  .desc.unordered list
+ol
+  .desc.ordered list
+  .attr.start
+li.ul
+  .dest.list
+li.ol
+  .dest.list
+dl
+  .desc.defined list
+dt.dl
+  .desc.defined title
+dd.dl
+  .desc.defined data
+caption
+  .desc.caption
+col
+  .desc.column
+  .attr.align
+  .attr.char
+  .attr.charoff
+  .attr.span
+  .attr.spanoff
+  .attr.valign
+  .attr.width
+colgroup
+  .desc.column group
+  .attr.span
+  .attr.align
+  .attr.style
+form
+  .desc.form
+  .attr.action
+  .attr.method
+  .attr.enctype
+input
+  .desc.input
+  .attr.type
+  .attr.name
+  .attr.value
+select.form
+  .desc.drop box
+  .attr.name
+option.select
+  .desc.option
+  .attr.value
+  .attr.selected
+textarea
+  .desc.textarea
+  .attr.rows
+  .attr.cols
+fieldset.form
+  .desc.field set
+legend.fieldset
+  .desc.legend information
+frameset
+  .desc.frame set
+  .attr.cols
+  .attr.rows
+frame.frameset
+  .desc.frame
+  .attr.src
+  .attr.noresize
+iframe
+  .desc.iframe
+  .attr.src
+  .attr.height
+  .attr.width
+  .attr.frameborder
+head
+  .desc.head
+base
+  .desc.default base url or base taget
+  .attr.href
+  .attr.target
+title
+  .desc.title
+link
+  .desc.link for outside css
+  .attr.rel
+  .attr.type
+  .attr.href
+meta
+  .desc.meta data
+  .attr.name
+  .attr.content
+script
+  .desc.script
+  .attr.type
+embed
+  .desc.embed media
+  .attr.height
+  .attr.width
+  .attr.src
+object
+  .desc.media object
+  .attr.height
+  .attr.width
+  .attr.src
+audio
+  .desc.audio
+  .attr.controls
+source.audio
+  .desc.audio source
+  .attr.src
+  .attr.type
+video
+  .desc.video
+  .attr.controls
+source.video
+  .desc.video source
+  .attr.src
+  .attr.type
+  
